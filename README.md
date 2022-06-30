@@ -2,7 +2,7 @@
 ![enter image description here](https://i.imgur.com/LxRUcN9.png)
 
 
-I'm Juan Camilo, a mobile developer from Colombia ☕. I'm passionate about detail and user experience, I have worked with a team to develop an app and I have done some personal projects. Some technologies I enjoy working with are Android Studio, Kotlin, and Figma,🌱 I'm learning SQL, Firebase and React.
+I'm Juan Camilo, a mobile developer from Colombia ☕. I'm passionate about detail and user experience, I have worked with a team to develop an app look the project [here](https://github.com/laikaInLove/OT218-Client/blob/main/README.md). I have done some personal projects you can see them here in my git. Some technologies I enjoy working with are Android Studio, Kotlin, and Figma,🌱 I'm learning SQL, Firebase and React.
 
 ##  🌎 Find   me  around  the  web
 
@@ -14,7 +14,7 @@ I'm Juan Camilo, a mobile developer from Colombia ☕. I'm passionate about deta
 
 -   👨🏽‍💻 I’m currently working on  a personal app and better my portfolio
 
-- 📜[Resume](https://drive.google.com/file/d/1T-QteoQD4mL-0guqPT3UKPczu8-mYPTO/view?usp=sharing)
+- 📜[Resume](https://drive.google.com/file/d/1t3z4XwiDEv-FRgn5VRK_Q4afZ03dZB6-/view?usp=sharing)
 -  📝  I'm constantly learning 
 -  💬  Ask me about anything, I am happy to help you
 - 🎶 I love music and 🎬  movies
